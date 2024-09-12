@@ -1,0 +1,1 @@
+from application.routes.shops import shop_blp
